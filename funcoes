@@ -1,0 +1,16 @@
+// 1 - Declaração da Função
+function imprimeTexto(Texto) {
+    console.log(Texto)
+}
+
+// 2 - Executa a Função
+
+
+function soma(){
+    const resultado = 2 + 2;
+    return resultado
+}
+
+//console.log(soma())
+
+imprimeTexto(soma())
