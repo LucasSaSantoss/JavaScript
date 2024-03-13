@@ -1,0 +1,6 @@
+const salapython = ['Melissa','Helena','Rodrigo']
+const salaJavaScript = ['Ju','Leo','Raquel']
+
+const salasUnificadas = salapython.concat(salaJavaScript)
+
+console.log(salasUnificadas)
